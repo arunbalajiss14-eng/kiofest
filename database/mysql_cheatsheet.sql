@@ -140,3 +140,8 @@ ORDER BY e.date;
 
 cd kiot_fest
 npm run dev
+
+----after download zip in github--
+cd to project file 
+npm install
+npm run dev
