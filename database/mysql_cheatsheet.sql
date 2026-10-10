@@ -144,4 +144,8 @@ npm run dev
 ----after download zip in github--
 cd to project file 
 npm install
+<<<<<<< HEAD
 npm run dev
+=======
+npm run dev
+>>>>>>> 66520d85f633d4d8fa2c33baae47b7db1a66da6e
